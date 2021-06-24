@@ -6,4 +6,4 @@ Specifically, for task associated with GEC, we arrange to hump without the utili
 
 ## Software requirements 
 All the code is in the Google collab file.
-No separate installation of library is required as file the code handles it internally.
+No separate installation of library is required as the code handles it internally.
